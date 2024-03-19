@@ -29,7 +29,7 @@ My projects leverage a broad range of technologies across programming, cloud pla
 - **Data Management:** Cosmos DB, Oracle, SQL Server
 - **DevOps & Collaboration:** Git, Azure DevOps
 - **Visualization & BI:** Power BI, Streamlit
-- **Architecture & Design:** Lakehouse Architecture, Data Modeling
+- **Architecture & Design:** Lakehouse Architecture, Lambda Architecture, Kappa Architecture
 - **Practices:** Object-Oriented Programming (OOP), Unit Testing
 
 This concise toolkit enables me to address and solve complex data challenges effectively.
