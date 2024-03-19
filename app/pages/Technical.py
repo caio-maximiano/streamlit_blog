@@ -2,7 +2,7 @@ import streamlit as st
 import os
 
 # Get a list of all post files in the 'posts' directory
-post_files = os.listdir('app/pages/tech_posts')
+post_files = sorted(os.listdir('app/pages/tech_posts'), key=lambda x: int(x.split('_')[0]))
 
 for post_file in post_files[::-1]:
     with open(os.path.join('app/pages/tech_posts/', post_file), 'r', encoding='utf-8') as f:
