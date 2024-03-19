@@ -1,4 +1,4 @@
-# Power BI vs. Streamlit: Choosing the Right Tool for Your Data Projects
+# 02 Power BI vs. Streamlit: Choosing the Right Tool for Your Data Projects
 
 In the diverse landscape of data visualization and application development tools, Power BI and Streamlit stand out for their unique features and capabilities. While Power BI is renowned for its deep analytical power and comprehensive data visualization capabilities, Streamlit offers simplicity and agility in developing data-driven web applications. This post explores the differences between Power BI and Streamlit, their strengths and weaknesses, and provides guidance on choosing the right tool for different industry needs.
 

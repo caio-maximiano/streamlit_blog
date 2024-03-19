@@ -1,4 +1,4 @@
-# Building My First Streamlit App
+# 01 Building My First Streamlit App
 
 Streamlit has revolutionized the way we build and share data applications. In this post, I'm excited to share my journey of developing my first app using Streamlit, including the challenges I faced and the achievements along the way.
 
