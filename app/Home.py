@@ -1,15 +1,13 @@
 import streamlit as st
-from st_pages import Page,Section, show_pages, add_page_title
+from st_pages import Page, show_pages, add_page_title
 
 add_page_title()
-print("Home.py rodando")
-# Specify what pages should be shown in the sidebar, and what their titles 
-# and icons should be
+
 show_pages(
     [
-        Page("Home.py", "About Me", "🙋‍♂️"),
-        Page("pages/Experience.py", "Experience", "🛒"),
-        Page("pages/Technical.py", "Tech Talk", "👨‍💻"),
+        Page("app/Home.py", "About Me", "🙋‍♂️"),
+        Page("app/pages/Experience.py", "Experience", "🛒"),
+        Page("app/pages/Technical.py", "Tech Talk", "👨‍💻"),
     ]
 )
 
@@ -44,6 +42,6 @@ I'm keen on connecting with like-minded individuals, innovators, and anyone pass
             """)
 
 # Adicionando uma imagem com uma legenda
-st.image('images\\home_data_eng.jpg', 
+st.image('app/images/home_data_eng.jpg', 
          caption='Illustration by storyset on Freepik', 
          use_column_width=True)

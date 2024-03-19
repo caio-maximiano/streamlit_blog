@@ -1,4 +1,4 @@
-# 01 My First Data Engineering Blog Post
+# 01 Data Engineering Blog With Streamlit
 
 Welcome to my first data engineering blog post! In this post, I'll be discussing some basic concepts in data engineering and sharing my thoughts on the importance of data pipelines.
 
@@ -6,7 +6,7 @@ Welcome to my first data engineering blog post! In this post, I'll be discussing
 
 Data pipelines are a fundamental component of any data engineering workflow. They allow us to efficiently extract, transform, and load data from various sources into a central repository for analysis and decision-making.
 
-- **Extract**: The first step in building a data pipeline is to [extract data](https://www.linkedin.com/in/caio-maximiano/) from its source. This could be from databases, APIs, files, or other data storage systems.
+- **Extract**: The first step in building a data pipeline is to extract data from its source. This could be from databases, APIs, files, or other data storage systems.
 
 - **Transform**: Once we've extracted the data, we need to transform it into a format that's suitable for analysis. This may involve cleaning the data, performing calculations, or aggregating it in some way.
 
@@ -18,6 +18,4 @@ Data pipelines play a crucial role in modern data-driven organizations. By build
 
 Stay tuned for more blog posts where I'll be diving deeper into the world of data engineering!
 
----
 
-*Illustration by storyset on Freepik*
