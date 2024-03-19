@@ -27,15 +27,16 @@ def projects_page():
     with tab2:
         st.header('Healthcare Analysis Project')
         st.markdown("""
-                - **Date:** November 2021
+                - **Date:** November 2022
                 - **Description:** Analyzed data from healthcare establishments in the state of São Paulo to identify trends and areas for improvement.
+                - **More Information:** Click [Here](https://repositorio.unesp.br/items/e103fcd1-3a76-4495-9478-54cfde7ead99)
                 """)
         
         st.header('Reinforcement Learning Project using C++')
         st.markdown("""
                 - **Date:** November 2018
                 - **Description:** Developed a Q-learning method for optimizing the decision-making process of a two-dimensional agent.
-                    More Information [Here](https://www.sorocaba.unesp.br/Home/Graduacao/EngenhariadeControleeAutomacao/mauricio/iv_mostra_robotica.pdf), page 288
+                - **More Information:** Click [Here](https://www.sorocaba.unesp.br/Home/Graduacao/EngenhariadeControleeAutomacao/mauricio/iv_mostra_robotica.pdf), page 288
                 """)
 
 if __name__ == '__main__':
