@@ -40,18 +40,7 @@ I'm keen on connecting with like-minded individuals, innovators, and anyone pass
 
 [🔗 LinkedIn Profile](https://www.linkedin.com/in/caio-maximiano/) | 📩 caiofcm97@gmail.com
 
-<style>
-.profile-pic {
-    position: absolute;
-    top: -150px;
-    right: 10px;  /* Changed to left */
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-}
-</style>
-<img class="profile-pic" src="https://raw.githubusercontent.com/caio-maximiano/streamlit_blog/main/app/images/ProfilePic.jpeg">  
+
             """,unsafe_allow_html=True)
 
 # Adicionando uma imagem com uma legenda
