@@ -52,8 +52,7 @@ I'm keen on connecting with like-minded individuals, innovators, and anyone pass
 }
 </style>
 <img class="profile-pic" src="https://raw.githubusercontent.com/caio-maximiano/streamlit_blog/main/app/images/ProfilePic.jpeg">  
-            """,unsafe_allow_html=True
-            """)
+            """,unsafe_allow_html=True)
 
 # Adicionando uma imagem com uma legenda
 st.image('app/images/home_data_eng.jpg', 
