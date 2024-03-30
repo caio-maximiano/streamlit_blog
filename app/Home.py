@@ -39,6 +39,20 @@ This concise toolkit enables me to address and solve complex data challenges eff
 I'm keen on connecting with like-minded individuals, innovators, and anyone passionate about the transformative power of data. Whether you're pondering over potential collaborations or simply wish to exchange ideas on the latest developments in data technology, don't hesitate to get in touch.
 
 [🔗 LinkedIn Profile](https://www.linkedin.com/in/caio-maximiano/) | 📩 caiofcm97@gmail.com
+
+<style>
+.profile-pic {
+    position: absolute;
+    top: -150px;
+    right: 10px;  /* Changed to left */
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+</style>
+<img class="profile-pic" src="https://raw.githubusercontent.com/caio-maximiano/streamlit_blog/main/app/images/ProfilePic.jpeg">  
+            """,unsafe_allow_html=True
             """)
 
 # Adicionando uma imagem com uma legenda
